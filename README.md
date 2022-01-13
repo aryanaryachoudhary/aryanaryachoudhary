@@ -35,7 +35,16 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />]
 
 <br />
-<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Aryan's GitHub Stats" src="https://github-readme-stats.aryanaryachoudhary.vercel.app/api?username=codeSTACKr&show_icons=true&theme=radical" />
+  <img align="centre" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
+</details>
 
 
 [website]: https://aryanaryachoudhary.github.io/
