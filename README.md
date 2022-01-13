@@ -37,7 +37,7 @@
 <br />
 
 ---
-<img alt="Aryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryanaryachoudhary&show_icons=true&theme=radical" />  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+<img alt="Aryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryanaryachoudhary&show_icons=true" />  <img align="right" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 
 
