@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aryan's GitHub Stats" src="https://github-readme-stats.aryanaryachoudhary.vercel.app/api?username=aryanaryachoudhary&show_icons=true&theme=radical" />
+  <img align="left" alt="Aryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aryanaryachoudhary&show_icons=true&theme=radical" />
   <img align="centre" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
 
 </details>
