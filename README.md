@@ -1,9 +1,6 @@
-### Hi there, I'm Aryan[website] 👋 
+### Hi there, I'm Aryan! 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## I'm a !!
+## I'm a Student, Programmer and a Basketball enthusiast!!
 
 - 🌱 On the way to find purpose of my existential being.
 - 🥅 2022 Goals: Expand my knowledge of Computers.
