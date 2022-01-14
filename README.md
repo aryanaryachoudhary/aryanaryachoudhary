@@ -37,8 +37,13 @@
 <br />
 
 ---
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanaryachoudhary)](https://github.com/aryanaryachoudhary/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanaryachoudhary&layout=compact)](https://github.com/aryanaryachoudhary/github-readme-stats)
+<a href="https://github.com/aryanaryachoudhary/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanaryachoudhary&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/aryanaryachoudhary/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanaryachoudhary&layout=compact" />
+</a>
 
 [website]: https://aryanaryachoudhary.github.io/
 [twitter]: ''
