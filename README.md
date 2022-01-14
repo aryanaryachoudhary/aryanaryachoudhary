@@ -38,7 +38,7 @@
 
 ---
 <a href="https://github.com/aryanaryachoudhary/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanaryachoudhary&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanaryachoudhary" />
 </a>
 
 <a href="https://github.com/aryanaryachoudhary/top-langs">
