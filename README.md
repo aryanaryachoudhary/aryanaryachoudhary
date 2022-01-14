@@ -6,7 +6,6 @@
 - 🥅 2022 Goals: Expand my knowledge of Computers.
 - ⚡ Fun fact: I am an amateur Basketball player and an avid NBA follower!
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/stealth_nvidia)
 
 ### Connect with me:
 
