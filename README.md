@@ -6,6 +6,8 @@
 - 🥅 2022 Goals: Expand my knowledge of Computers.
 - ⚡ Fun fact: I am an amateur Basketball player and an avid NBA follower!
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/stealth_nvidia)
+
 ### Connect with me:
 
 [<img align="left" alt="aryanaryachoudhary.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
