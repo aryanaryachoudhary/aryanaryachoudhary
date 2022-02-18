@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center"> Hi, I'm Aryan Arya Choudhary!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 <h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
 
