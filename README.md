@@ -1,10 +1,18 @@
-### Hi there, I'm Aryan! 👋 
+<h1 align="center"> Hi, I'm Vaibhav Upreti  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-## I'm a Student, Programmer and a Basketball enthusiast!!
+<h3 align="center"> Programmer | Developer | Coder | Student | Learner </h3>
 
-- 🌱 On the way to find purpose of my existential being.
-- 🥅 2022 Goals: Expand my knowledge of Computers.
-- ⚡ Fun fact: I am an amateur Basketball player and an avid NBA follower!
+
+### About Me
+- 🌱 Enthralled by Computers!
+- 💻 [Portfolio](https://aryanaryachoudhary.github.io/)
+- 💙 AI & ML
+- 👨‍💻 My projects [here](https://github.com/aryanaryachoudhary?tab=repositories)
+- ✉️ Email Address aryanaryachoudhary@gmail.com
+- "Contributing to open source and helping communities"
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+
 
 
 ### Connect with me:
