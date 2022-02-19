@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/-Opencv-05122A?style=flat&logo=opencv"/>&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas"/>&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/28597253/154802606-f77ca090-0040-42ac-97e4-31275597baa8.svg"/>&nbsp;
 
 
 <br />
